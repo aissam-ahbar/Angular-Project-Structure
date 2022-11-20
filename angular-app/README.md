@@ -24,10 +24,6 @@ Configures npm package dependencies that are available to all projects in the wo
 
 Provides version information for all packages installed into node_modules by the npm client. See npm documentation for details. If you use the yarn client, this file will be yarn.lock instead.
 
-## src/
-
-Source files for the root-level application project.
-
 ## node_modules/
 
 Provides npm packages to the entire workspace. Workspace-wide node_modules dependencies are visible to all projects.
@@ -35,3 +31,8 @@ Provides npm packages to the entire workspace. Workspace-wide node_modules depen
 ## tsconfig.json
 
 The base TypeScript configuration for projects in the workspace. All other configuration files inherit from this base file. For more information, see the Configuration inheritance with extends section of the TypeScript documentation.
+
+## src/
+
+Source files for the root-level application project.
+
