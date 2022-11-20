@@ -1,5 +1,14 @@
 # Angular Project Structure
 
+## src/
+
+Source files for the root-level application project.
+
+- File Structure Overview :
+
+![Alt text](https://stackblitz.com/files/angular-project-structure/github/aissam-ahbar/Angular-Project-Structure/main/angular-app/src/assets/image.png 'Angular Project Overview')
+
+
 ## .editorconfig
 
 Configuration for code editors. See EditorConfig.
@@ -40,10 +49,3 @@ TypeScript configuration for the application tests. See TypeScript Configuration
 
 Application-specific TypeScript configuration, including TypeScript and Angular template compiler options. See TypeScript Configuration and Angular Compiler Options.
 
-## src/
-
-Source files for the root-level application project.
-
-- File Structure Overview :
-
-![Alt text](https://stackblitz.com/files/angular-project-structure/github/aissam-ahbar/Angular-Project-Structure/main/angular-app/src/assets/image.png 'Angular Project Overview')
