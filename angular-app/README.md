@@ -32,6 +32,14 @@ Provides npm packages to the entire workspace. Workspace-wide node_modules depen
 
 The base TypeScript configuration for projects in the workspace. All other configuration files inherit from this base file. For more information, see the Configuration inheritance with extends section of the TypeScript documentation.
 
+## tsconfig.spec.json
+
+TypeScript configuration for the application tests. See TypeScript Configuration.
+
+## tsconfig.app.json
+
+Application-specific TypeScript configuration, including TypeScript and Angular template compiler options. See TypeScript Configuration and Angular Compiler Options.
+
 ## src/
 
 Source files for the root-level application project.
