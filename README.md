@@ -8,6 +8,7 @@ Source files for the root-level application project.
 
 ![Alt text](https://stackblitz.com/files/angular-project-structure/github/aissam-ahbar/Angular-Project-Structure/main/angular-app/src/assets/image.png 'Angular Project Overview')
 
+![Alt text](https://stackblitz.com/files/angular-project-structure/github/aissam-ahbar/Angular-Project-Structure/main/angular-app/src/assets/overview.png 'Files Tree')
 
 ## .editorconfig
 
