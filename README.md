@@ -8,7 +8,9 @@ Source files for the root-level application project.
 
 ![Alt text](https://stackblitz.com/files/angular-project-structure/github/aissam-ahbar/Angular-Project-Structure/main/angular-app/src/assets/image.png 'Angular Project Overview')
 
-![Alt text](https://stackblitz.com/files/angular-project-structure/github/aissam-ahbar/Angular-Project-Structure/main/angular-app/src/assets/overview.png 'Files Tree')
+- File Tree (Entry point main.ts | index.html) :
+
+![Alt text](https://github.com/aissam-ahbar/Angular-Project-Structure/blob/7166fa5181bd24288a6db512708f4fe9ad515667/src/assets/overview.png?raw=true 'Files Tree')
 
 ## .editorconfig
 
@@ -49,4 +51,3 @@ TypeScript configuration for the application tests. See TypeScript Configuration
 ## tsconfig.app.json
 
 Application-specific TypeScript configuration, including TypeScript and Angular template compiler options. See TypeScript Configuration and Angular Compiler Options.
-
