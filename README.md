@@ -6,7 +6,7 @@ Source files for the root-level application project.
 
 - File Structure Overview :
 
-![Alt text](https://stackblitz.com/files/angular-project-structure/github/aissam-ahbar/Angular-Project-Structure/main/angular-app/src/assets/image.png 'Angular Project Overview')
+![Alt text](https://github.com/aissam-ahbar/Angular-Project-Structure/blob/main/src/assets/image.png?raw=true 'Angular Project Overview')
 
 - File Tree (Entry point main.ts | index.html) :
 
